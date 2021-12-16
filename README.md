@@ -4,7 +4,7 @@
 
 ## 📖 Index / Table of Contents
 
-* [HOME](README.md)
+* [HOME](https://github.com/Ragdata/snippets)
   * [git-crypt](git-crypt.md)
   * [gpg](gpg.md)
   * [Node.js](node.md)
