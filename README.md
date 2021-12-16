@@ -1,6 +1,6 @@
 # Code Snippets
 
-✔️ A documentation repository of snippets, hints, &amp; tips
+📑 A documentation repository of snippets, hints, &amp; tips
 
 ## 📖 Index / Table of Contents
 
